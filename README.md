@@ -2,8 +2,8 @@
 # bitcore-wallet-service-axe
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-service-axe.svg?)](https://www.npmjs.org/package/bitcore-wallet-service-axe)
-[![Build Status](https://img.shields.io/travis/axerunners/bitcore-wallet-service-axe.svg?branch=master)](https://travis-ci.org/axerunners/bitcore-wallet-service-axe)
-[![Coverage Status](https://coveralls.io/repos/axerunners/bitcore-wallet-service-axe/badge.svg?branch=master)](https://coveralls.io/r/axerunners/bitcore-wallet-service-axe?branch=master)
+[![Build Status](https://travis-ci.com/AXErunners/bitcore-wallet-service-axe.svg?branch=master)](https://travis-ci.com/AXErunners/bitcore-wallet-service-axe)
+[![Coverage Status](https://coveralls.io/repos/AXErunners/bitcore-wallet-service-axe/badge.svg?branch=master)](https://coveralls.io/r/AXErunners/bitcore-wallet-service-axe?branch=master)
 
 A Multisig HD Bitcore Wallet Service.
 
