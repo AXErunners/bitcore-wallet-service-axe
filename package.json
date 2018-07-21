@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-service-axe",
   "description": "A service for Mutisig HD AXE Wallets",
   "author": "BitPay Inc",
-  "version": "2.3.3",
+  "version": "2.3.5",
   "licence": "MIT",
   "keywords": [
     "axe",
